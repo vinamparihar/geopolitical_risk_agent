@@ -1,0 +1,174 @@
+Serial Number,Country,Risk Score (0-10),Category,Description
+1,Global,2.3255017286206145,Global Indicator,No explanation provided
+2,Global,0.44371026930511315,Global Trade Protectionism,No explanation provided
+3,United States,2.804597084160477,Emerging Market Political Crisis,No explanation provided
+4,China,3.403016418510111,Emerging Market Political Crisis,No explanation provided
+5,Russia,1.0184578418751151,Emerging Market Political Crisis,No explanation provided
+6,Germany,4.007212917707312,Emerging Market Political Crisis,No explanation provided
+7,United Kingdom,3.3719675437006025,Emerging Market Political Crisis,No explanation provided
+8,France,3.5914802927594995,Emerging Market Political Crisis,No explanation provided
+9,Japan,2.878161709379517,Emerging Market Political Crisis,No explanation provided
+10,India,4.954032578881027,Emerging Market Political Crisis,No explanation provided
+11,Brazil,3.411576177268798,Emerging Market Political Crisis,No explanation provided
+12,South Africa,4.157442280369758,Emerging Market Political Crisis,No explanation provided
+13,Saudi Arabia,3.5299815690167646,Emerging Market Political Crisis,No explanation provided
+14,Iran,3.9671978667432546,Emerging Market Political Crisis,No explanation provided
+15,North Korea,4.684662218257339,Emerging Market Political Crisis,No explanation provided
+16,South Korea,3.824805063490522,Emerging Market Political Crisis,No explanation provided
+17,Ukraine,0.2183249772683904,Emerging Market Political Crisis,No explanation provided
+18,Israel,3.193514380638016,Emerging Market Political Crisis,No explanation provided
+19,Turkey,0.7239874493982257,Emerging Market Political Crisis,No explanation provided
+20,Mexico,0.3457358140522476,Emerging Market Political Crisis,No explanation provided
+21,Canada,4.036488608526402,Emerging Market Political Crisis,No explanation provided
+22,Australia,3.422387024986739,Emerging Market Political Crisis,No explanation provided
+23,United States,3.0660357764778574,Global Technology Decoupling,No explanation provided
+24,China,2.7198779459745226,Global Technology Decoupling,No explanation provided
+25,Russia,4.859772674329945,Global Technology Decoupling,No explanation provided
+26,Germany,1.6803143782841472,Global Technology Decoupling,No explanation provided
+27,United Kingdom,1.1049812851266698,Global Technology Decoupling,No explanation provided
+28,France,3.865322676849214,Global Technology Decoupling,No explanation provided
+29,Japan,2.3249598101511495,Global Technology Decoupling,No explanation provided
+30,India,1.6771184215213697,Global Technology Decoupling,No explanation provided
+31,Brazil,1.9797028831757308,Global Technology Decoupling,No explanation provided
+32,South Africa,2.6011421321689783,Global Technology Decoupling,No explanation provided
+33,Saudi Arabia,3.271558371258017,Global Technology Decoupling,No explanation provided
+34,Iran,3.7686782268954655,Global Technology Decoupling,No explanation provided
+35,North Korea,4.858561051787399,Global Technology Decoupling,No explanation provided
+36,South Korea,4.047862143733518,Global Technology Decoupling,No explanation provided
+37,Ukraine,2.7350467247515335,Global Technology Decoupling,No explanation provided
+38,Israel,3.657217026369633,Global Technology Decoupling,No explanation provided
+39,Turkey,2.564073461019023,Global Technology Decoupling,No explanation provided
+40,Mexico,2.1717381592244207,Global Technology Decoupling,No explanation provided
+41,Canada,0.2653213624570733,Global Technology Decoupling,No explanation provided
+42,Australia,0.4519932098767765,Global Technology Decoupling,No explanation provided
+43,United States,4.603264612955943,Major Terror Attacks,No explanation provided
+44,China,3.628782287125232,Major Terror Attacks,No explanation provided
+45,Russia,2.7998742408772337,Major Terror Attacks,No explanation provided
+46,Germany,4.5265948052586165,Major Terror Attacks,No explanation provided
+47,United Kingdom,1.53561729616415,Major Terror Attacks,No explanation provided
+48,France,4.193362483265702,Major Terror Attacks,No explanation provided
+49,Japan,1.0602873179869232,Major Terror Attacks,No explanation provided
+50,India,0.08853337680970019,Major Terror Attacks,No explanation provided
+51,Brazil,2.3891463077902437,Major Terror Attacks,No explanation provided
+52,South Africa,3.284886859219177,Major Terror Attacks,No explanation provided
+53,Saudi Arabia,4.474981867777325,Major Terror Attacks,No explanation provided
+54,Iran,2.2424345361972824,Major Terror Attacks,No explanation provided
+55,North Korea,4.302800387921363,Major Terror Attacks,No explanation provided
+56,South Korea,2.6772124845433725,Major Terror Attacks,No explanation provided
+57,Ukraine,4.878465100648198,Major Terror Attacks,No explanation provided
+58,Israel,4.280823531583068,Major Terror Attacks,No explanation provided
+59,Turkey,1.4926768604226042,Major Terror Attacks,No explanation provided
+60,Mexico,0.7273472086354166,Major Terror Attacks,No explanation provided
+61,Canada,3.124089556202538,Major Terror Attacks,No explanation provided
+62,United States,4.312680690686642,European Fragmentation,No explanation provided
+63,China,4.843487863984085,European Fragmentation,No explanation provided
+64,Russia,1.4553183798855673,European Fragmentation,No explanation provided
+65,Germany,3.03042576058858,European Fragmentation,No explanation provided
+66,United Kingdom,4.27937889486808,European Fragmentation,No explanation provided
+67,France,0.22157534430065073,European Fragmentation,No explanation provided
+68,Japan,4.985682523360006,European Fragmentation,No explanation provided
+69,India,1.75087966325516,European Fragmentation,No explanation provided
+70,Brazil,3.385579334403639,European Fragmentation,No explanation provided
+71,South Africa,2.8193099927708074,European Fragmentation,No explanation provided
+72,Saudi Arabia,4.073059871563976,European Fragmentation,No explanation provided
+73,Iran,1.1962282146592136,European Fragmentation,No explanation provided
+74,North Korea,1.396513468064768,European Fragmentation,No explanation provided
+75,South Korea,0.27586355019441067,European Fragmentation,No explanation provided
+76,Ukraine,3.2703969214317867,European Fragmentation,No explanation provided
+77,Israel,0.9031438022317972,European Fragmentation,No explanation provided
+78,Turkey,1.3254894991932171,European Fragmentation,No explanation provided
+79,Mexico,4.5102707790880325,European Fragmentation,No explanation provided
+80,Australia,0.766323831432626,European Fragmentation,No explanation provided
+81,United States,1.6552626373244954,Russia-NATO Conflict,No explanation provided
+82,China,3.3216896804796177,Russia-NATO Conflict,No explanation provided
+83,Russia,1.2831851388571942,Russia-NATO Conflict,No explanation provided
+84,Germany,0.01682370860050908,Russia-NATO Conflict,No explanation provided
+85,United Kingdom,1.3519208214296081,Russia-NATO Conflict,No explanation provided
+86,France,1.443651188648527,Russia-NATO Conflict,No explanation provided
+87,Japan,0.05931595846027815,Russia-NATO Conflict,No explanation provided
+88,India,4.518395888944589,Russia-NATO Conflict,No explanation provided
+89,Brazil,4.477906088003418,Russia-NATO Conflict,No explanation provided
+90,South Africa,1.5494253296120015,Russia-NATO Conflict,No explanation provided
+91,Saudi Arabia,1.8588595671718156,Russia-NATO Conflict,No explanation provided
+92,North Korea,2.156786065517322,Russia-NATO Conflict,No explanation provided
+93,South Korea,3.820089253347816,Russia-NATO Conflict,No explanation provided
+94,Ukraine,0.07234249085332767,Russia-NATO Conflict,No explanation provided
+95,Israel,4.931366219363514,Russia-NATO Conflict,No explanation provided
+96,Turkey,0.7248302526308825,Russia-NATO Conflict,No explanation provided
+97,Mexico,4.921735277705267,Russia-NATO Conflict,No explanation provided
+98,Canada,3.0073229155820203,Russia-NATO Conflict,No explanation provided
+99,Australia,0.9033829116289005,Russia-NATO Conflict,No explanation provided
+100,United States,2.6357448139357063,U.S. China Strategic Competition,No explanation provided
+101,China,3.9397838713476525,U.S. China Strategic Competition,No explanation provided
+102,Russia,0.7193424585755609,U.S. China Strategic Competition,No explanation provided
+103,Germany,0.9814147163242698,U.S. China Strategic Competition,No explanation provided
+104,France,4.7410599197149,U.S. China Strategic Competition,No explanation provided
+105,Japan,1.1370081867955073,U.S. China Strategic Competition,No explanation provided
+106,India,0.7144320057989095,U.S. China Strategic Competition,No explanation provided
+107,Brazil,4.461852518623966,U.S. China Strategic Competition,No explanation provided
+108,South Africa,1.664433953811915,U.S. China Strategic Competition,No explanation provided
+109,Saudi Arabia,0.6971073430149827,U.S. China Strategic Competition,No explanation provided
+110,Iran,1.5858965450970026,U.S. China Strategic Competition,No explanation provided
+111,North Korea,4.057617882309511,U.S. China Strategic Competition,No explanation provided
+112,South Korea,1.6735071965225057,U.S. China Strategic Competition,No explanation provided
+113,Ukraine,0.47080228137710345,U.S. China Strategic Competition,No explanation provided
+114,Israel,1.1130611247904099,U.S. China Strategic Competition,No explanation provided
+115,Turkey,3.7749345827369964,U.S. China Strategic Competition,No explanation provided
+116,Canada,3.612250549494806,U.S. China Strategic Competition,No explanation provided
+117,Australia,4.626056704809213,U.S. China Strategic Competition,No explanation provided
+118,United States,3.2398114143068604,Middle East Regional War,No explanation provided
+119,China,4.937484699393005,Middle East Regional War,No explanation provided
+120,Russia,3.2324804316310782,Middle East Regional War,No explanation provided
+121,Germany,3.759145884572428,Middle East Regional War,No explanation provided
+122,United Kingdom,4.18833500401604,Middle East Regional War,No explanation provided
+123,France,3.350011753636708,Middle East Regional War,No explanation provided
+124,Japan,0.9887126213798048,Middle East Regional War,No explanation provided
+125,India,4.133419291335598,Middle East Regional War,No explanation provided
+126,Brazil,4.648873215468879,Middle East Regional War,No explanation provided
+127,South Africa,2.1090245007108326,Middle East Regional War,No explanation provided
+128,Iran,1.3730949641176093,Middle East Regional War,No explanation provided
+129,North Korea,3.5084478004461808,Middle East Regional War,No explanation provided
+130,South Korea,2.706601364887992,Middle East Regional War,No explanation provided
+131,Ukraine,2.201048328631341,Middle East Regional War,No explanation provided
+132,Israel,1.9166789752431868,Middle East Regional War,No explanation provided
+133,Turkey,3.4562692073579395,Middle East Regional War,No explanation provided
+134,Mexico,1.5446063566243602,Middle East Regional War,No explanation provided
+135,Canada,0.9325609185839445,Middle East Regional War,No explanation provided
+136,Australia,1.952154163937641,Middle East Regional War,No explanation provided
+137,United States,2.8628495784589187,North Korea Conflict,No explanation provided
+138,China,0.913841440128349,North Korea Conflict,No explanation provided
+139,Russia,3.0072098926024626,North Korea Conflict,No explanation provided
+140,United Kingdom,3.617519504488462,North Korea Conflict,No explanation provided
+141,France,3.614645434085293,North Korea Conflict,No explanation provided
+142,Japan,3.6733852420230506,North Korea Conflict,No explanation provided
+143,India,0.8341316927563197,North Korea Conflict,No explanation provided
+144,Brazil,2.203255734716492,North Korea Conflict,No explanation provided
+145,South Africa,3.0308477510719607,North Korea Conflict,No explanation provided
+146,Saudi Arabia,2.6719339581965764,North Korea Conflict,No explanation provided
+147,Iran,3.0209274682815934,North Korea Conflict,No explanation provided
+148,North Korea,2.5514766529216457,North Korea Conflict,No explanation provided
+149,South Korea,1.313703950104116,North Korea Conflict,No explanation provided
+150,Ukraine,0.1995579437349182,North Korea Conflict,No explanation provided
+151,Israel,4.648245111721695,North Korea Conflict,No explanation provided
+152,Mexico,4.51580914076813,North Korea Conflict,No explanation provided
+153,Canada,1.0165437057484112,North Korea Conflict,No explanation provided
+154,Australia,0.9908100137201875,North Korea Conflict,No explanation provided
+155,United States,4.369527833413813,Major Cyber Attacks,No explanation provided
+156,China,1.293864110306584,Major Cyber Attacks,No explanation provided
+157,Russia,4.742779295147901,Major Cyber Attacks,No explanation provided
+158,Germany,1.2336969943689087,Major Cyber Attacks,No explanation provided
+159,United Kingdom,4.437197709847928,Major Cyber Attacks,No explanation provided
+160,France,4.588206848769797,Major Cyber Attacks,No explanation provided
+161,Japan,2.3367174232028196,Major Cyber Attacks,No explanation provided
+162,India,3.008930005185081,Major Cyber Attacks,No explanation provided
+163,Brazil,1.1944499125042012,Major Cyber Attacks,No explanation provided
+164,Saudi Arabia,2.271199344758416,Major Cyber Attacks,No explanation provided
+165,Iran,2.5757510936099886,Major Cyber Attacks,No explanation provided
+166,North Korea,0.8060079589799579,Major Cyber Attacks,No explanation provided
+167,South Korea,2.313644747703862,Major Cyber Attacks,No explanation provided
+168,Ukraine,1.823654898095346,Major Cyber Attacks,No explanation provided
+169,Israel,4.876224106804249,Major Cyber Attacks,No explanation provided
+170,Turkey,1.8806051899770053,Major Cyber Attacks,No explanation provided
+171,Mexico,2.999072943667037,Major Cyber Attacks,No explanation provided
+172,Canada,4.038249191438363,Major Cyber Attacks,No explanation provided
+173,Australia,0.3063950329398507,Major Cyber Attacks,No explanation provided

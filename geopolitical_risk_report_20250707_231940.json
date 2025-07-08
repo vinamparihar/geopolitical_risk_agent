@@ -1,0 +1,1213 @@
+[
+    {
+        "Serial Number": 1,
+        "Country": "Global",
+        "Risk Score (0-10)": 2.3255017286206145,
+        "Category": "Global Indicator",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 2,
+        "Country": "Global",
+        "Risk Score (0-10)": 0.4437102693051131,
+        "Category": "Global Trade Protectionism",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 3,
+        "Country": "United States",
+        "Risk Score (0-10)": 2.804597084160477,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 4,
+        "Country": "China",
+        "Risk Score (0-10)": 3.403016418510111,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 5,
+        "Country": "Russia",
+        "Risk Score (0-10)": 1.0184578418751151,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 6,
+        "Country": "Germany",
+        "Risk Score (0-10)": 4.007212917707312,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 7,
+        "Country": "United Kingdom",
+        "Risk Score (0-10)": 3.3719675437006025,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 8,
+        "Country": "France",
+        "Risk Score (0-10)": 3.5914802927594995,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 9,
+        "Country": "Japan",
+        "Risk Score (0-10)": 2.878161709379517,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 10,
+        "Country": "India",
+        "Risk Score (0-10)": 4.954032578881027,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 11,
+        "Country": "Brazil",
+        "Risk Score (0-10)": 3.411576177268798,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 12,
+        "Country": "South Africa",
+        "Risk Score (0-10)": 4.157442280369758,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 13,
+        "Country": "Saudi Arabia",
+        "Risk Score (0-10)": 3.5299815690167646,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 14,
+        "Country": "Iran",
+        "Risk Score (0-10)": 3.967197866743255,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 15,
+        "Country": "North Korea",
+        "Risk Score (0-10)": 4.684662218257339,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 16,
+        "Country": "South Korea",
+        "Risk Score (0-10)": 3.824805063490522,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 17,
+        "Country": "Ukraine",
+        "Risk Score (0-10)": 0.2183249772683904,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 18,
+        "Country": "Israel",
+        "Risk Score (0-10)": 3.193514380638016,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 19,
+        "Country": "Turkey",
+        "Risk Score (0-10)": 0.7239874493982257,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 20,
+        "Country": "Mexico",
+        "Risk Score (0-10)": 0.3457358140522476,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 21,
+        "Country": "Canada",
+        "Risk Score (0-10)": 4.036488608526402,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 22,
+        "Country": "Australia",
+        "Risk Score (0-10)": 3.422387024986739,
+        "Category": "Emerging Market Political Crisis",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 23,
+        "Country": "United States",
+        "Risk Score (0-10)": 3.0660357764778574,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 24,
+        "Country": "China",
+        "Risk Score (0-10)": 2.7198779459745226,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 25,
+        "Country": "Russia",
+        "Risk Score (0-10)": 4.859772674329945,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 26,
+        "Country": "Germany",
+        "Risk Score (0-10)": 1.6803143782841472,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 27,
+        "Country": "United Kingdom",
+        "Risk Score (0-10)": 1.1049812851266698,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 28,
+        "Country": "France",
+        "Risk Score (0-10)": 3.865322676849214,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 29,
+        "Country": "Japan",
+        "Risk Score (0-10)": 2.324959810151149,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 30,
+        "Country": "India",
+        "Risk Score (0-10)": 1.6771184215213697,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 31,
+        "Country": "Brazil",
+        "Risk Score (0-10)": 1.9797028831757308,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 32,
+        "Country": "South Africa",
+        "Risk Score (0-10)": 2.6011421321689783,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 33,
+        "Country": "Saudi Arabia",
+        "Risk Score (0-10)": 3.271558371258017,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 34,
+        "Country": "Iran",
+        "Risk Score (0-10)": 3.7686782268954655,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 35,
+        "Country": "North Korea",
+        "Risk Score (0-10)": 4.858561051787399,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 36,
+        "Country": "South Korea",
+        "Risk Score (0-10)": 4.047862143733518,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 37,
+        "Country": "Ukraine",
+        "Risk Score (0-10)": 2.735046724751533,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 38,
+        "Country": "Israel",
+        "Risk Score (0-10)": 3.657217026369633,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 39,
+        "Country": "Turkey",
+        "Risk Score (0-10)": 2.564073461019023,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 40,
+        "Country": "Mexico",
+        "Risk Score (0-10)": 2.1717381592244207,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 41,
+        "Country": "Canada",
+        "Risk Score (0-10)": 0.2653213624570733,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 42,
+        "Country": "Australia",
+        "Risk Score (0-10)": 0.4519932098767765,
+        "Category": "Global Technology Decoupling",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 43,
+        "Country": "United States",
+        "Risk Score (0-10)": 4.603264612955943,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 44,
+        "Country": "China",
+        "Risk Score (0-10)": 3.628782287125232,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 45,
+        "Country": "Russia",
+        "Risk Score (0-10)": 2.7998742408772337,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 46,
+        "Country": "Germany",
+        "Risk Score (0-10)": 4.5265948052586165,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 47,
+        "Country": "United Kingdom",
+        "Risk Score (0-10)": 1.53561729616415,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 48,
+        "Country": "France",
+        "Risk Score (0-10)": 4.193362483265702,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 49,
+        "Country": "Japan",
+        "Risk Score (0-10)": 1.0602873179869232,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 50,
+        "Country": "India",
+        "Risk Score (0-10)": 0.0885333768097001,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 51,
+        "Country": "Brazil",
+        "Risk Score (0-10)": 2.389146307790244,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 52,
+        "Country": "South Africa",
+        "Risk Score (0-10)": 3.284886859219177,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 53,
+        "Country": "Saudi Arabia",
+        "Risk Score (0-10)": 4.474981867777325,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 54,
+        "Country": "Iran",
+        "Risk Score (0-10)": 2.2424345361972824,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 55,
+        "Country": "North Korea",
+        "Risk Score (0-10)": 4.302800387921363,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 56,
+        "Country": "South Korea",
+        "Risk Score (0-10)": 2.6772124845433725,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 57,
+        "Country": "Ukraine",
+        "Risk Score (0-10)": 4.878465100648198,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 58,
+        "Country": "Israel",
+        "Risk Score (0-10)": 4.280823531583068,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 59,
+        "Country": "Turkey",
+        "Risk Score (0-10)": 1.4926768604226042,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 60,
+        "Country": "Mexico",
+        "Risk Score (0-10)": 0.7273472086354166,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 61,
+        "Country": "Canada",
+        "Risk Score (0-10)": 3.124089556202538,
+        "Category": "Major Terror Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 62,
+        "Country": "United States",
+        "Risk Score (0-10)": 4.312680690686642,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 63,
+        "Country": "China",
+        "Risk Score (0-10)": 4.843487863984085,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 64,
+        "Country": "Russia",
+        "Risk Score (0-10)": 1.4553183798855671,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 65,
+        "Country": "Germany",
+        "Risk Score (0-10)": 3.03042576058858,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 66,
+        "Country": "United Kingdom",
+        "Risk Score (0-10)": 4.27937889486808,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 67,
+        "Country": "France",
+        "Risk Score (0-10)": 0.2215753443006507,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 68,
+        "Country": "Japan",
+        "Risk Score (0-10)": 4.985682523360006,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 69,
+        "Country": "India",
+        "Risk Score (0-10)": 1.75087966325516,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 70,
+        "Country": "Brazil",
+        "Risk Score (0-10)": 3.385579334403639,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 71,
+        "Country": "South Africa",
+        "Risk Score (0-10)": 2.8193099927708074,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 72,
+        "Country": "Saudi Arabia",
+        "Risk Score (0-10)": 4.073059871563976,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 73,
+        "Country": "Iran",
+        "Risk Score (0-10)": 1.1962282146592136,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 74,
+        "Country": "North Korea",
+        "Risk Score (0-10)": 1.396513468064768,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 75,
+        "Country": "South Korea",
+        "Risk Score (0-10)": 0.2758635501944106,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 76,
+        "Country": "Ukraine",
+        "Risk Score (0-10)": 3.2703969214317867,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 77,
+        "Country": "Israel",
+        "Risk Score (0-10)": 0.9031438022317972,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 78,
+        "Country": "Turkey",
+        "Risk Score (0-10)": 1.3254894991932171,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 79,
+        "Country": "Mexico",
+        "Risk Score (0-10)": 4.5102707790880325,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 80,
+        "Country": "Australia",
+        "Risk Score (0-10)": 0.766323831432626,
+        "Category": "European Fragmentation",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 81,
+        "Country": "United States",
+        "Risk Score (0-10)": 1.6552626373244954,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 82,
+        "Country": "China",
+        "Risk Score (0-10)": 3.3216896804796177,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 83,
+        "Country": "Russia",
+        "Risk Score (0-10)": 1.2831851388571942,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 84,
+        "Country": "Germany",
+        "Risk Score (0-10)": 0.016823708600509,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 85,
+        "Country": "United Kingdom",
+        "Risk Score (0-10)": 1.351920821429608,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 86,
+        "Country": "France",
+        "Risk Score (0-10)": 1.443651188648527,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 87,
+        "Country": "Japan",
+        "Risk Score (0-10)": 0.0593159584602781,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 88,
+        "Country": "India",
+        "Risk Score (0-10)": 4.518395888944589,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 89,
+        "Country": "Brazil",
+        "Risk Score (0-10)": 4.477906088003418,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 90,
+        "Country": "South Africa",
+        "Risk Score (0-10)": 1.5494253296120015,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 91,
+        "Country": "Saudi Arabia",
+        "Risk Score (0-10)": 1.858859567171816,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 92,
+        "Country": "North Korea",
+        "Risk Score (0-10)": 2.156786065517322,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 93,
+        "Country": "South Korea",
+        "Risk Score (0-10)": 3.820089253347816,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 94,
+        "Country": "Ukraine",
+        "Risk Score (0-10)": 0.0723424908533276,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 95,
+        "Country": "Israel",
+        "Risk Score (0-10)": 4.931366219363514,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 96,
+        "Country": "Turkey",
+        "Risk Score (0-10)": 0.7248302526308825,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 97,
+        "Country": "Mexico",
+        "Risk Score (0-10)": 4.921735277705267,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 98,
+        "Country": "Canada",
+        "Risk Score (0-10)": 3.0073229155820203,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 99,
+        "Country": "Australia",
+        "Risk Score (0-10)": 0.9033829116289004,
+        "Category": "Russia-NATO Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 100,
+        "Country": "United States",
+        "Risk Score (0-10)": 2.6357448139357063,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 101,
+        "Country": "China",
+        "Risk Score (0-10)": 3.939783871347653,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 102,
+        "Country": "Russia",
+        "Risk Score (0-10)": 0.7193424585755609,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 103,
+        "Country": "Germany",
+        "Risk Score (0-10)": 0.9814147163242698,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 104,
+        "Country": "France",
+        "Risk Score (0-10)": 4.7410599197149,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 105,
+        "Country": "Japan",
+        "Risk Score (0-10)": 1.1370081867955073,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 106,
+        "Country": "India",
+        "Risk Score (0-10)": 0.7144320057989095,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 107,
+        "Country": "Brazil",
+        "Risk Score (0-10)": 4.461852518623966,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 108,
+        "Country": "South Africa",
+        "Risk Score (0-10)": 1.664433953811915,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 109,
+        "Country": "Saudi Arabia",
+        "Risk Score (0-10)": 0.6971073430149827,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 110,
+        "Country": "Iran",
+        "Risk Score (0-10)": 1.5858965450970026,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 111,
+        "Country": "North Korea",
+        "Risk Score (0-10)": 4.057617882309511,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 112,
+        "Country": "South Korea",
+        "Risk Score (0-10)": 1.6735071965225057,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 113,
+        "Country": "Ukraine",
+        "Risk Score (0-10)": 0.4708022813771034,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 114,
+        "Country": "Israel",
+        "Risk Score (0-10)": 1.11306112479041,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 115,
+        "Country": "Turkey",
+        "Risk Score (0-10)": 3.774934582736997,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 116,
+        "Country": "Canada",
+        "Risk Score (0-10)": 3.612250549494806,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 117,
+        "Country": "Australia",
+        "Risk Score (0-10)": 4.626056704809213,
+        "Category": "U.S. China Strategic Competition",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 118,
+        "Country": "United States",
+        "Risk Score (0-10)": 3.2398114143068604,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 119,
+        "Country": "China",
+        "Risk Score (0-10)": 4.937484699393005,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 120,
+        "Country": "Russia",
+        "Risk Score (0-10)": 3.2324804316310782,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 121,
+        "Country": "Germany",
+        "Risk Score (0-10)": 3.759145884572428,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 122,
+        "Country": "United Kingdom",
+        "Risk Score (0-10)": 4.18833500401604,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 123,
+        "Country": "France",
+        "Risk Score (0-10)": 3.350011753636708,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 124,
+        "Country": "Japan",
+        "Risk Score (0-10)": 0.9887126213798048,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 125,
+        "Country": "India",
+        "Risk Score (0-10)": 4.133419291335598,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 126,
+        "Country": "Brazil",
+        "Risk Score (0-10)": 4.648873215468879,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 127,
+        "Country": "South Africa",
+        "Risk Score (0-10)": 2.1090245007108326,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 128,
+        "Country": "Iran",
+        "Risk Score (0-10)": 1.3730949641176091,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 129,
+        "Country": "North Korea",
+        "Risk Score (0-10)": 3.5084478004461808,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 130,
+        "Country": "South Korea",
+        "Risk Score (0-10)": 2.706601364887992,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 131,
+        "Country": "Ukraine",
+        "Risk Score (0-10)": 2.201048328631341,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 132,
+        "Country": "Israel",
+        "Risk Score (0-10)": 1.9166789752431868,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 133,
+        "Country": "Turkey",
+        "Risk Score (0-10)": 3.4562692073579395,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 134,
+        "Country": "Mexico",
+        "Risk Score (0-10)": 1.5446063566243602,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 135,
+        "Country": "Canada",
+        "Risk Score (0-10)": 0.9325609185839444,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 136,
+        "Country": "Australia",
+        "Risk Score (0-10)": 1.952154163937641,
+        "Category": "Middle East Regional War",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 137,
+        "Country": "United States",
+        "Risk Score (0-10)": 2.8628495784589187,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 138,
+        "Country": "China",
+        "Risk Score (0-10)": 0.913841440128349,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 139,
+        "Country": "Russia",
+        "Risk Score (0-10)": 3.007209892602462,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 140,
+        "Country": "United Kingdom",
+        "Risk Score (0-10)": 3.617519504488462,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 141,
+        "Country": "France",
+        "Risk Score (0-10)": 3.614645434085293,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 142,
+        "Country": "Japan",
+        "Risk Score (0-10)": 3.6733852420230506,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 143,
+        "Country": "India",
+        "Risk Score (0-10)": 0.8341316927563197,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 144,
+        "Country": "Brazil",
+        "Risk Score (0-10)": 2.203255734716492,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 145,
+        "Country": "South Africa",
+        "Risk Score (0-10)": 3.0308477510719607,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 146,
+        "Country": "Saudi Arabia",
+        "Risk Score (0-10)": 2.6719339581965764,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 147,
+        "Country": "Iran",
+        "Risk Score (0-10)": 3.0209274682815934,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 148,
+        "Country": "North Korea",
+        "Risk Score (0-10)": 2.5514766529216457,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 149,
+        "Country": "South Korea",
+        "Risk Score (0-10)": 1.313703950104116,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 150,
+        "Country": "Ukraine",
+        "Risk Score (0-10)": 0.1995579437349182,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 151,
+        "Country": "Israel",
+        "Risk Score (0-10)": 4.648245111721695,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 152,
+        "Country": "Mexico",
+        "Risk Score (0-10)": 4.51580914076813,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 153,
+        "Country": "Canada",
+        "Risk Score (0-10)": 1.0165437057484112,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 154,
+        "Country": "Australia",
+        "Risk Score (0-10)": 0.9908100137201876,
+        "Category": "North Korea Conflict",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 155,
+        "Country": "United States",
+        "Risk Score (0-10)": 4.369527833413813,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 156,
+        "Country": "China",
+        "Risk Score (0-10)": 1.293864110306584,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 157,
+        "Country": "Russia",
+        "Risk Score (0-10)": 4.742779295147901,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 158,
+        "Country": "Germany",
+        "Risk Score (0-10)": 1.233696994368909,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 159,
+        "Country": "United Kingdom",
+        "Risk Score (0-10)": 4.437197709847928,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 160,
+        "Country": "France",
+        "Risk Score (0-10)": 4.588206848769797,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 161,
+        "Country": "Japan",
+        "Risk Score (0-10)": 2.33671742320282,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 162,
+        "Country": "India",
+        "Risk Score (0-10)": 3.008930005185081,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 163,
+        "Country": "Brazil",
+        "Risk Score (0-10)": 1.1944499125042012,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 164,
+        "Country": "Saudi Arabia",
+        "Risk Score (0-10)": 2.271199344758416,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 165,
+        "Country": "Iran",
+        "Risk Score (0-10)": 2.575751093609989,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 166,
+        "Country": "North Korea",
+        "Risk Score (0-10)": 0.8060079589799579,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 167,
+        "Country": "South Korea",
+        "Risk Score (0-10)": 2.313644747703862,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 168,
+        "Country": "Ukraine",
+        "Risk Score (0-10)": 1.823654898095346,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 169,
+        "Country": "Israel",
+        "Risk Score (0-10)": 4.876224106804249,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 170,
+        "Country": "Turkey",
+        "Risk Score (0-10)": 1.880605189977005,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 171,
+        "Country": "Mexico",
+        "Risk Score (0-10)": 2.999072943667037,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 172,
+        "Country": "Canada",
+        "Risk Score (0-10)": 4.038249191438363,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    },
+    {
+        "Serial Number": 173,
+        "Country": "Australia",
+        "Risk Score (0-10)": 0.3063950329398507,
+        "Category": "Major Cyber Attacks",
+        "Description": "No explanation provided"
+    }
+]
